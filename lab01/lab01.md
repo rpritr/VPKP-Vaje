@@ -1,12 +1,10 @@
-# Vaja 1: Varnost posameynikov v kibernetskem prostoru
+# Vaja 1: Varnost posameznikov v kibernetskem prostoru
 
 Kibernetski prostor danes uporabljamo na vsakem vidik našega življenja — od vsakdanjih komunikacij, nakupovanja, bančništva, do dela in zabave. Posamezniki se v njem znajdemo kot uporabniki, ustvarjalci pa tudi tarče, pogosto pa se ne zavedamo vseh nevarnosti in posledic svojih dejanj.
 
 Cilj vaj pri predmetu Varnost posameznikov v kibernetskem prostoru je študentom približati ključne pojme kibernetske varnosti z vidika posameznika, razviti občutek za tveganja in priložnosti ter jih opremiti z osnovnimi znanji za varnejšo uporabo sodobnih tehnologij.
 
 # 🧪 Vaja 1: Spoznajmo kibernetski prostor
-
-Analiza osebne izpostavljenosti v kibernetskem prostoru
 
 Prva vaja je namenjena uvodu v tematiko ter spoznavanju osnovnih pojmov in izzivov:
 
@@ -17,9 +15,9 @@ Prva vaja je namenjena uvodu v tematiko ter spoznavanju osnovnih pojmov in izziv
 ## 1️⃣ Uvod: Analiza osebne izpostavljenosti v kibernetskem prostoru
 
 Cilji vaje:
-✅ Spoznati osnovne pojme: posameznik, kibernetski prostor, kibernetska varnost, zasebnost.
-✅ Prepoznati osebne podatke in kako so dostopni v spletnem okolju.
-✅ Razumeti, kako sodobne tehnologije vplivajo na varnost in zasebnost posameznika.
+✅ Spoznati osnovne pojme: posameznik, kibernetski prostor, kibernetska varnost, zasebnost.  
+✅ Prepoznati osebne podatke in kako so dostopni v spletnem okolju.  
+✅ Razumeti, kako sodobne tehnologije vplivajo na varnost in zasebnost posameznika.  
 
 ### Varnost in zasebnost
 
