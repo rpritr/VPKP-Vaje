@@ -19,10 +19,10 @@ Druga vaja je spoznavanju socialnega inženiring:
 
 ## 1️⃣ Uvod: Tehnike socialnega inženiringa
 
-Cilji vaje:
-✅ Prepoznati glavne tehnike socialnega inženiringa.
-✅ Preveriti lastno pripravljenost na tovrstne napade.
-✅ Spoznati konkretne strategije obrambe in dobre prakse.
+Cilji vaje:  
+✅ Prepoznati glavne tehnike socialnega inženiringa.  
+✅ Preveriti lastno pripravljenost na tovrstne napade.  
+✅ Spoznati konkretne strategije obrambe in dobre prakse.  
 
 ### Prepoznavanje tehnik socialnega inženiringa
 
@@ -70,10 +70,10 @@ USB ključek z napisom »Zaupno« ali »Plačilni podatki«, puščen na parkiri
 
 🎯 Kako jih prepoznati?
 
-✅ Vedno preverimo identiteto pošiljatelja/klicalca.
-✅ Ne klikamo na sumljive povezave ali odpirajte neznanih priponk.
-✅ Ne delimo osebnih ali prijavnih podatkov po telefonu ali e‑pošti.
-✅ Če se zgodba zdi sumljiva ali preveč nujna — preverimo pri uradnem viru.
+✅ Vedno preverimo identiteto pošiljatelja/klicalca.  
+✅ Ne klikamo na sumljive povezave ali odpirajte neznanih priponk.  
+✅ Ne delimo osebnih ali prijavnih podatkov po telefonu ali e‑pošti.  
+✅ Če se zgodba zdi sumljiva ali preveč nujna — preverimo pri uradnem viru.  
 
 ## 2️⃣ Aktivnost: Analiza phising primerov
 
