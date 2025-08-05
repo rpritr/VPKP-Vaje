@@ -1,12 +1,12 @@
 # Vaja 1: Varnost posameznikov v kibernetskem prostoru
 
-Kibernetski prostor danes uporabljamo na vsakem vidik našega življenja — od vsakdanjih komunikacij, nakupovanja, bančništva, do dela in zabave. Posamezniki se v njem znajdemo kot uporabniki, ustvarjalci pa tudi tarče, pogosto pa se ne zavedamo vseh nevarnosti in posledic svojih dejanj.
+Kibernetski prostor danes uporabljamo na vsakem vidiku našega življenja — od vsakdanjih komunikacij, nakupovanja, bančništva, do dela in zabave. Posamezniki se v njem znajdemo kot uporabniki, ustvarjalci pa tudi tarče, pogosto pa se ne zavedamo vseh nevarnosti in posledic svojih dejanj.
 
-Cilj vaj pri predmetu Varnost posameznikov v kibernetskem prostoru je študentom približati ključne pojme kibernetske varnosti z vidika posameznika, razviti občutek za tveganja in priložnosti ter jih opremiti z osnovnimi znanji za varnejšo uporabo sodobnih tehnologij.
+Cilj vaj pri predmetu Varnost posameznikov v kibernetskem prostoru je študentom približati ključne pojme kibernetske varnosti z vidika posameznika, razviti občutek za tveganja in ranljivosti ter jih opremiti z osnovnimi znanji za varnejšo uporabo sodobnih tehnologij.
 
 # 🧪 Vaja 1: Spoznajmo kibernetski prostor
 
-Prva vaja je namenjena uvodu v tematiko ter spoznavanju osnovnih pojmov in izzivov:
+Prva vaja je namenjena uvodu v kibernetsko varnost ter spoznavanju osnovnih pojmov in izzivov:
 
 - Kdo ali kaj je posameznik v kibernetskem prostoru?
 - Kaj pomeni pojem kibernetski prostor in kako ga zaznavamo?
@@ -14,7 +14,7 @@ Prva vaja je namenjena uvodu v tematiko ter spoznavanju osnovnih pojmov in izziv
 
 ## 1️⃣ Uvod: Analiza osebne izpostavljenosti v kibernetskem prostoru
 
-Cilji vaje:
+Cilji vaje:  
 ✅ Spoznati osnovne pojme: posameznik, kibernetski prostor, kibernetska varnost, zasebnost.  
 ✅ Prepoznati osebne podatke in kako so dostopni v spletnem okolju.  
 ✅ Razumeti, kako sodobne tehnologije vplivajo na varnost in zasebnost posameznika.  
@@ -37,22 +37,13 @@ V brskalniku odprite način incognito/private in poiščite informacije o sebi (
 - Poiščite svoje ime in priimek v Googlu.
 - Preverite morebitne javne profile (Facebook, LinkedIn, Instagram, forumi).
 - Uporabite orodja za preverjanje izpostavljenosti (HaveIBeenPwned, OSINTLeak)
-
-haveibeenpwned.com – preveri, ali je njihov e-naslov že bil v podatkovni kraji.
+- Orodja: PimEyes, haveibeenpwned, OSINTLeak
 
 Google Alerts – nastavitev opozoril za omembe imena.
 
 ## 3️⃣ Refleksija in analiza
 
 - Zapišite kratko poročilo o tem katere podatke ste našli.
-- Kakšno potencialno tveganje predstavljajo. 
-- Zapišite primer črnega scenarija kako bi nekomu ti podatki lahko prišli prav na primeru osebne izpostavljenosti. 
+- Kakšno potencialno tveganje predstavljajo?
+- Zapišite primer črnega scenarija kako bi nekomu ti podatki lahko prišli prav na primeru osebne izpostavljenosti.
 - Kako bi ocenili svojo osebno varnost/zasebnost?
-
-## Domača naloga
-
-Razložite pojme:
-- Posameznik v kibernetskem prostoru
-- Kibernetski prostor
-- Kibernetska varnost
-- Zasebnost
