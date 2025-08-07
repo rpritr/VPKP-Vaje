@@ -39,7 +39,30 @@ V brskalniku odprite način incognito/private in poiščite informacije o sebi (
 - Uporabite orodja za preverjanje izpostavljenosti (HaveIBeenPwned, OSINTLeak)
 - Orodja: PimEyes, haveibeenpwned, OSINTLeak
 
-Google Alerts – nastavitev opozoril za omembe imena.
+### Google dorking/hacking
+
+Google Dorking (imenovan tudi Google Hacking) je tehnika, pri kateri uporabimo napredne iskalne operatorje v Googlu (ali drugih iskalnikih), da najdemo informacije, ki niso namenjene javnosti, a so kljub temu dostopne prek spleta.
+
+Ne gre za vdor v sisteme, temveč za izkoriščanje napačno konfiguriranih spletnih strani, strežnikov ali aplikacij, kjer so datoteke, dokumenti ali celo gesla javno objavljena, a skrita pred običajnimi uporabniki.
+
+### 📘 Primeri Google Dork iskalnih poizvedb
+
+| Iskalna poizvedba                       | Kaj najde?                                        |
+|----------------------------------------|---------------------------------------------------|
+| `filetype:pdf site:gov.si`             | PDF dokumenti na slovenskih vladnih straneh       |
+| `intitle:"index of" passwords`         | Mape z imenom "index of" in datotekami z gesli    |
+| `inurl:admin login`                    | Strani z možnostjo prijave v administracijo       |
+| `site:pastebin.com password`           | Objave z gesli na Pastebin                        |
+| `"confidential" filetype:pdf`          | Dokumenti z oznako "confidential" v PDF obliki    |
+| `ext:sql intext:"password"`            | Javne SQL datoteke, ki vsebujejo gesla            |
+| `intitle:"webcamXP 5"`                 | Nezaščiteni vmesniki IP kamer                     |
+| `inurl:/phpinfo.php`                   | Javne PHP konfiguracijske datoteke                |
+| `filetype:env intext:DB_PASSWORD`      | Javne `.env` datoteke z gesli do baz              |
+| `site:*.* inurl:/config.json`          | Javne konfiguracijske datoteke aplikacij          |
+
+Google Dorking ni nezakonit, dokler ne posegamo v zaščitene sisteme. Vendar pa najdenih informacij ne smemo zlorabiti, shranjevati brez dovoljenja ali javno razkrivati.
+
+Google sicer omogoča tudi uporabo Google Alerts, ki ga lahko uporabimo za nastavitev opozoril za omembe imena.
 
 ## 3️⃣ Refleksija in analiza
 
