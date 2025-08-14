@@ -1,5 +1,5 @@
 
-# 🧩 Vaja 7: Osebna varnost v digitalnem prostoru
+# 🧩 Vaja 8: Osebna varnost v digitalnem prostoru
 
 ## 🎯 Namen vaje
 

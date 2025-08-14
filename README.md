@@ -12,9 +12,19 @@ Predmet se izvaja na magistrskem študijskem programu Kibernetska varnost na Fak
 |--------|---------------|
 | `lab01` | Varnost posameznikov v kibernetskem prostoru |
 | `lab02` | OSINT – zbiranje informacij o posameznikih na spletu |
-| `lab03` | Upravljanje osebnih identitet |
-| `lab04` | Testiranje varnosti gesel z razbijanjem zgoščenih vrednosti |
-| `lab05` | Uporaba varne komunikacije |
-| `lab06` | Socialni inženiring in obrambe pred njim |
-| `lab07` | Osebna varnost v digitalnem prostoru |
-| `lab08` | MetaOSINT – Kaj vse razkrije slika? |
+| `lab03` | MetaOSINT – Kaj vse razkrije slika? |
+| `lab04` | Socialni inženiring in obrambe pred njim |
+| `lab05` | Testiranje varnosti gesel z razbijanjem zgoščenih vrednosti |
+| `lab06` | Upravljanje osebnih identitet |
+| `lab07` | Uporaba varne komunikacije |
+| `lab08` | Osebna varnost v digitalnem prostoru |
+
+
+## Opombe
+
+**Uporaba AI:** Pri razvoju vsebine in pripravi dokumentacije je bilo uporabljeno orodje ChatGPT (OpenAI), ki je služilo kot pomoč pri generiranju idej, optimizaciji kode in oblikovanju besedil.  
+Vse končne rešitve so bile pregledane, preverjene in po potrebi prilagojene s strani avtorja projekta.
+
+## Reference
+
+OpenAI, (2025), *ChatGPT* (Aug 2025) [Large language model], https://chat.openai.com/

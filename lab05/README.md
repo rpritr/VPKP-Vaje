@@ -105,3 +105,13 @@ john --show hashes.txt
 - Kako vplivajo posebni znaki na oceno?
 - Kako se ocenjuje “passphrase” v primerjavi s klasičnim geslom?
 - Katero geslo bi priporočili za vsakodnevno uporabo in zakaj?
+
+
+## Reference
+
+
+1. John the Ripper, *John the Ripper password cracker
+*, https://www.openwall.com/john/
+2. John the Ripper, GitHub, https://github.com/openwall/john
+3. Rockyou.txt wordlist, https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+4. OpenAI. (2025), *ChatGPT* (Aug 2025) [Large language model], https://chat.openai.com/

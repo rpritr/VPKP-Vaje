@@ -1,10 +1,10 @@
 # Vaja 1: Varnost posameznikov v kibernetskem prostoru
 
-Kibernetski prostor danes uporabljamo na vsakem vidiku našega življenja — od vsakdanjih komunikacij, nakupovanja, bančništva, do dela in zabave. Posamezniki se v njem znajdemo kot uporabniki, ustvarjalci pa tudi tarče, pogosto pa se ne zavedamo vseh nevarnosti in posledic svojih dejanj.
+Kibernetski prostor uporabljamo vsakodnevno. Primer uporabe kibernetskega prostora je komunikacija, nakupovanje, bančništvo, pa tudi delo in zabava. Posamezniki smo uporabniki kibernetskega prostora, hkrati pa tudi tarče in se pogosto ne zavedamo vseh nevarnosti in posledic svojih dejanj.
 
 Cilj vaj pri predmetu Varnost posameznikov v kibernetskem prostoru je študentom približati ključne pojme kibernetske varnosti z vidika posameznika, razviti občutek za tveganja in ranljivosti ter jih opremiti z osnovnimi znanji za varnejšo uporabo sodobnih tehnologij.
 
-# 🧪 Vaja 1: Spoznajmo kibernetski prostor
+# 🧪 Spoznajmo kibernetski prostor
 
 Prva vaja je namenjena uvodu v kibernetsko varnost ter spoznavanju osnovnih pojmov in izzivov:
 
@@ -21,14 +21,14 @@ Cilji vaje:
 
 ### Varnost in zasebnost
 
-Posameznik v kibernetskem prostoru je vsak uporabnik digitalnih tehnologij in interneta, ki deluje, komunicira ali pušča sledove v digitalnem okolju. To vključuje uporabo naprav (računalniki, telefoni), storitev (spletne strani, aplikacije, družbena omrežja) in omrežij.
+Posameznik v kibernetskem prostoru je vsak uporabnik tehnologij in naprav, ki so povezane v omrežje ter uporabljajo storitve interneta.
 
 Varnost:
-Varnost v kibernetskem prostoru pomeni zaščito informacijskih sistemov, omrežij in podatkov pred nepooblaščenim dostopom, napadi, okvarami ali zlorabo. Cilj je zagotoviti zaupnost, celovitost in razpoložljivost podatkov in storitev.
+Varnost (kibernetska varnost) obsega varovanje IKT sistemov, omrežij in podatkov pred nepooblaščenim dostopom, napadi, okvarami ali zlorabo. Namen je zagotavljanje zaupnosti, celovitosti in dostopnosti podatkov ter storitev.
 Primer: preprečiti vdor v uporabnikov e-poštni račun.
 
 Zasebnost:
-Zasebnost se nanaša na pravico posameznika, da nadzira svoje osebne podatke in način, kako se ti zbirajo, uporabljajo, delijo ali hranijo. Gre za to, koliko informacij o sebi posameznik želi razkriti in komu.
+Zasebnost se dotika pravice osebe, da ima nadzor nad svojimi osebnimi podatki ter načinom, kako se ti zbirajo, uporabljajo, razkrivajo ali shranjujejo. Gre za to, koliko podatkov o sebi želi oseba odpreti in komu.
 Primer: pravica, da spletna platforma brez soglasja ne deli uporabnikovih podatkov z oglaševalci.
 
 ## 2️⃣ Aktivnost: Analiza osebne izpostavljenosti
@@ -41,9 +41,12 @@ V brskalniku odprite način incognito/private in poiščite informacije o sebi (
 
 ### Google dorking/hacking
 
-Google Dorking (imenovan tudi Google Hacking) je tehnika, pri kateri uporabimo napredne iskalne operatorje v Googlu (ali drugih iskalnikih), da najdemo informacije, ki niso namenjene javnosti, a so kljub temu dostopne prek spleta.
+Google Dorking (znan tudi kot Google Hacking) je metoda, ki izkorišča napredne iskalne operaterje v Googlu (ali drugih iskalnikih), da pridobimo podatke, ki niso mišljeni za javnost, a so še vedno dosegljivi na spletu.
 
-Ne gre za vdor v sisteme, temveč za izkoriščanje napačno konfiguriranih spletnih strani, strežnikov ali aplikacij, kjer so datoteke, dokumenti ali celo gesla javno objavljena, a skrita pred običajnimi uporabniki.
+Gre za izkoriščanje napačno nastavljene spletne strani, strežnikov ali aplikacij, kjer so datoteke, dokumenti ali celo gesla dostopni javnosti, a skriti pred navadnimi uporabniki.
+
+Google Dorking sicer ni nezakonit, dokler ne posegamo v zaščitene sisteme. Vendar pa najdenih informacij ne smemo zlorabiti, shranjevati brez dovoljenja ali javno razkrivati.
+
 
 ### 📘 Primeri Google Dork iskalnih poizvedb
 
@@ -60,9 +63,6 @@ Ne gre za vdor v sisteme, temveč za izkoriščanje napačno konfiguriranih sple
 | `filetype:env intext:DB_PASSWORD`      | Javne `.env` datoteke z gesli do baz              |
 | `site:*.* inurl:/config.json`          | Javne konfiguracijske datoteke aplikacij          |
 
-Google Dorking ni nezakonit, dokler ne posegamo v zaščitene sisteme. Vendar pa najdenih informacij ne smemo zlorabiti, shranjevati brez dovoljenja ali javno razkrivati.
-
-Google sicer omogoča tudi uporabo Google Alerts, ki ga lahko uporabimo za nastavitev opozoril za omembe imena.
 
 ## 3️⃣ Refleksija in analiza
 
@@ -70,3 +70,10 @@ Google sicer omogoča tudi uporabo Google Alerts, ki ga lahko uporabimo za nasta
 - Kakšno potencialno tveganje predstavljajo?
 - Zapišite primer črnega scenarija kako bi nekomu ti podatki lahko prišli prav na primeru osebne izpostavljenosti.
 - Kako bi ocenili svojo osebno varnost/zasebnost?
+
+## Reference
+
+1. PimEyes., *Face recognition search engine*, https://pimeyes.com/  
+2. Have I Been Pwned, *Data breach search and notification service*, https://haveibeenpwned.com/  
+3. OSINT Framework, *OSINT tools and resources collection*,https://osintframework.com/  
+4. OpenAI, (2025), *ChatGPT* (Aug 2025) [Large language model], https://chat.openai.com/

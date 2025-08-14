@@ -1,4 +1,4 @@
-# Vaja 3: Upravljanje osebnih identitet
+# Vaja 6: Upravljanje osebnih identitet
 
 V digitalnem svetu so osebne identitete eden izmed ključnih elementov, ki omogočajo našo prisotnost in delovanje v kibernetskem prostoru. Gesla in prijavni podatki so pogosto edina ovira med našimi podatki in morebitnim napadalcem, zato je pravilno ravnanje z njimi ključno za varnost posameznika. 
 
