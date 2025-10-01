@@ -8,9 +8,9 @@ Ta vaja je namenjena raziskovanju informacij, ki jih lahko razkrijemo s pomočjo
 ## 1️⃣ Uvod: Zbiranje informacij o fotografijah
 
 Cilji vaje so:  
-✅ Razumeti pomen metapodatkov v digitalnih fotografijah.
-✅ Uporabiti OSINT orodja za analizo EXIF podatkov.
-✅ Oceniti tveganja, povezana z deljenjem slik na spletu.
+✅ Razumeti pomen metapodatkov v digitalnih fotografijah.  
+✅ Uporabiti OSINT orodja za analizo EXIF podatkov.  
+✅ Oceniti tveganja, povezana z deljenjem slik na spletu.  
 ✅ Razviti kritično razmišljanje o zasebnosti in digitalnih sledeh.
 
 ---

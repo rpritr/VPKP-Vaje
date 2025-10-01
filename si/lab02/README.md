@@ -70,6 +70,12 @@ cd maigret
 pip install -r requirements.txt
 ```
 
+Na Kali Linux: 
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install .
+```
 Zagon Maigret: 
 
 ```bash

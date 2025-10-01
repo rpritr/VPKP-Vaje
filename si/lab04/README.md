@@ -123,6 +123,11 @@ Veselimo se vaše udeležbe!
 
 Promocijska ekipa
 
+
+### Google phishing test
+
+S pomočjo Google kviza preverite svoje znanje o phishing e-pošti: https://phishingquiz.withgoogle.com/
+
 ## 3️⃣ Aktivnost: preverjanje phishing sporočil
 
 Vsako e‑sporočilo ima glavo sporočila (header), ki vsebuje tehnične podatke o pošiljatelju, naslovniku, času, IP‑jih in strežnikih. Header je pomemben za preiskovanje sumljivih sporočil.
@@ -144,6 +149,6 @@ V svojem e-poštnem odjemalcu poskusite v mapi SPAM poiskati kakšno sporočilo 
 
 ## 4️⃣ Refleksija in analiza
 
-- Kako hitro opazite sumljivost IP‑ja/domen?
+- Kako hitro opazite sumljivost phhising sporočila?
 - Bi to sporočilo prepoznali kot nevarno brez headerja?
 - Kaj bi svetovali nekomu, ki je nov uporabnik elektronske pošte glede nevarnosti, ki nanj prežijo iz vidika socialnega inženiringa?

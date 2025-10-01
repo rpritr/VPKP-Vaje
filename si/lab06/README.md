@@ -13,7 +13,7 @@ Namen te vaje je, da se študentje naučimo osnovnih dobrih praks pri upravljanj
 
 ## 1️⃣ Uvod: Upravljanje osebnih identitet
 
-Cilj je, da se kot uporabniki naučimo kako:
+Cilj je, da se kot uporabniki naučimo kako:  
 ✅ ustvariti varna gesla,  
 ✅ preveriti njihovo kompleksnost in odpornost na napade,  
 ✅ nastaviti dvofaktorsko avtentikacijo (MFA) za boljšo zaščito računov.

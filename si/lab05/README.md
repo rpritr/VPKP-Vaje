@@ -1,4 +1,4 @@
-# Vaja 4: Testiranje varnosti gesel z razbijanjem zgoščenih vrednosti
+# Vaja 5: Testiranje varnosti gesel z razbijanjem zgoščenih vrednosti
 
 Gesla so še vedno najpogosteje uporabljeno sredstvo za avtentikacijo, a pogosto so šibka ali ponovno uporabljena. V tej vaji bomo spoznali, kako deluje napad z uporabo slovarjev na slabo izbrana gesla. Namen vaje je pokazati, zakaj je pomembno uporabljati kompleksna in dolga gesla.
 
