@@ -12,10 +12,10 @@ The purpose of this exercise is for students to learn basic good practices in pe
 
 ## 1️⃣ Introduction: Personal Identity Management
 
-The goal is for us as users to learn how to:
-✅ create secure passwords,
-✅ check their complexity and resistance to attacks,
-✅ set up two-factor authentication (MFA) to better protect our accounts.
+The goal is for us as users to learn how to:  
+✅ create secure passwords,  
+✅ check their complexity and resistance to attacks,  
+✅ set up two-factor authentication (MFA) to better protect our accounts.  
 
 ### Personal identities and secure passwords
 

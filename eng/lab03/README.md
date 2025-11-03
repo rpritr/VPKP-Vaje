@@ -7,11 +7,11 @@ This exercise is designed to explore the information that can be revealed using 
 
 ## 1️⃣ Introduction: Gathering information about photos
 
-The objectives of the exercise are:
-✅ Understand the importance of metadata in digital photos.
-✅ Use OSINT tools to analyze EXIF ​​data.
-✅ Assess the risks associated with sharing images online.
-✅ Develop critical thinking about privacy and digital footprints.
+The objectives of the exercise are:  
+✅ Understand the importance of metadata in digital photos.  
+✅ Use OSINT tools to analyze EXIF ​​data.  
+✅ Assess the risks associated with sharing images online.  
+✅ Develop critical thinking about privacy and digital footprints.  
 
 ---
 

@@ -12,11 +12,11 @@ To make storing passwords on servers more secure, hashes of passwords are stored
 
 ## 1️⃣ Introduction: Personal Identity Management
 
-The goal is for users to learn how to:
-✅ understand how password hashing works
-✅ see the difference between weak and strong passwords
-✅ practically use password cracking tools
-✅ raise awareness of the importance of secure passwords and why we do not use weak ones
+The goal is for users to learn how to:  
+✅ understand how password hashing works  
+✅ see the difference between weak and strong passwords  
+✅ practically use password cracking tools  
+✅ raise awareness of the importance of secure passwords and why we do not use weak ones  
 
 ### Security of hashed values
 

@@ -20,10 +20,10 @@ The second exercise is about learning about social engineering:
 
 ## 1️⃣ Introduction: Social engineering techniques
 
-Exercise objectives:
-✅ Identify the main social engineering techniques.
-✅ Check your own preparedness for such attacks.
-✅ Learn about specific defense strategies and good practices.
+Exercise objectives:  
+✅ Identify the main social engineering techniques.  
+✅ Check your own preparedness for such attacks.  
+✅ Learn about specific defense strategies and good practices.  
 
 ### Identifying social engineering techniques
 
