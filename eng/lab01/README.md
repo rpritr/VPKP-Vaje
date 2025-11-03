@@ -17,9 +17,9 @@ The first exercise is intended to introduce cybersecurity and to learn about bas
 ## 1️⃣ Introduction: Analysis of personal exposure in cyberspace
 
 Exercise objectives:
-✅ To learn the basic concepts: individual, cyberspace, cybersecurity, privacy.
-✅ To recognize personal data and how it is accessible in the online environment.
-✅ To understand how modern technologies affect the security and privacy of an individual.
+✅ To learn the basic concepts: individual, cyberspace cybersecurity, privacy.  
+✅ To recognize personal data and how it is accessible in the online environment.  
+✅ To understand how modern technologies affect the security and privacy of an individual.  
 
 ### Security and privacy
 

@@ -11,9 +11,9 @@ OSINT is based on the principle that a huge amount of data can be found on the I
 ## 1️⃣ Introduction: Collecting information about individuals online
 
 The objectives of the exercise are:
-✅ Learn about OSINT techniques for collecting publicly available information about individuals.
-✅ Awareness of how much personal data can be found online.
-✅ Discussion on how to protect ourselves from overexposure.
+✅ Learn about OSINT techniques for collecting publicly available information about individuals.  
+✅ Awareness of how much personal data can be found online.  
+✅ Discussion on how to protect ourselves from overexposure.  
 
 ### Tools for collecting information about individuals
 
