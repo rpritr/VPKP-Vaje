@@ -46,10 +46,20 @@ Copy the passwords as you go and write them down on a sheet of paper or in a doc
 
 Check each of the passwords above on the **Password Strength Tester** page.
 For each password, write down a score:
+- color indicator (e.g. red, orange, green)  
+- estimated number of years to crack (if shown)  
 
-color indicator (e.g. red, orange, green)
+Use a Linux tool to evaluate password strength.
 
-estimated number of years to crack (if shown)
+Example tools:
+- cracklib-check  
+- pwscore 
+
+Test passwords in Linux and compare results with Bitwarden’s website.
+
+Calculate Shannon entropy for each password and rank them from weakest to strongest.
+
+You can use https://timcutting.co.uk/tools/password-entropy for calculating Shannon entropy.
 
 ### 📝 Analysis and report
 
@@ -57,6 +67,30 @@ For each password, write down:
 - The password you created.
 - What settings you chose.
 - Is the password safe to use and what would you change to make it even more secure?
+
+
+## 3️⃣ Activity: Setting Up MFA with Bitwarden Authenticator (TOTP)
+
+In this activity, we will learn how to enable Multi-Factor Authentication (MFA) using the Bitwarden Authenticator (TOTP — Time-based One-Time Passwords).
+This is one of the most secure and practical ways to protect your online accounts.
+
+You will enable MFA on a real service (Gmail, GitHub, Slack, Discord, etc.) and pair it with Bitwarden’s built-in authenticator to generate one-time codes.
+
+### Example case with MFA
+
+Pick one online service you use regularly (Gmail, GitHub, Discord). Open your account’s Security settings and set up a MFA using Bitwarden Authenticator or any other Authenticator. 
+
+Test your MFA setup and test the login.
+
+Write down the report with:
+- Service you used
+- Steps you completed
+- MFA paired app
+
+Answer questions:
+- Why is TOTP more secure than SMS?
+- What happens if you lose access to Bitwarden Authenticator?
+- Do all services support TOTP? Why or why not?
 
 ## 3️⃣ Reflection and analysis
 
