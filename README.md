@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity — Tutorials (MAG, KV, 15 hours)
+# 🛡️ Personal Cyber Security — Tutorials (MAG, KV, 15 hours)
 
 The repository contains tutorials for the course **Personal Cybersecurity** (MAG, CS), which include practical tasks for developing basic skills in protecting and raising awareness of individual security in cyberspace. Each tutorial has its own folder with a README.md file containing an introduction, objectives, description of activities, analysis, and questions for reflection.
 
