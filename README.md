@@ -30,4 +30,4 @@ OpenAI, (2025), *ChatGPT* (Aug 2025) [Large language model], https://chat.openai
 
 ## Author
 
-asist. Robi Pritržnik, mag. inž. rač. in splet. tehnol., Fakulteta za informacijske študije v Novem mestu, študijsko leto 2025/26
+Tch. Asst. Robi Pritržnik, MSc. in Computer Science and Web Technologies, Faculty of Information Studies in Novo Mesto, academic year 2025/26
