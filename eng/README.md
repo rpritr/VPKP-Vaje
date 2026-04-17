@@ -27,3 +27,7 @@ All final solutions were reviewed, verified and, if necessary, adjusted by the a
 ## References
 
 OpenAI, (2025), *ChatGPT* (Aug 2025) [Large language model], https://chat.openai.com/
+
+## Author
+
+Asst. Robi Pritržnik, MSc. in Computer and Web Engineering, Faculty of Information Studies in Novo Mesto, academic year 2025/26
